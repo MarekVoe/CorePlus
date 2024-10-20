@@ -2,3 +2,6 @@ name: CorePlus
 version: '1.0-SNAPSHOT'
 main: dev.marekvoe.corePlus.CorePlus
 api-version: '1.21'
+commands:
+  info:
+    description: Basic info command about plugin.
